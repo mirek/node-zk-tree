@@ -1,6 +1,6 @@
 {
   "name": "zk-tree",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Zookeeper tree for ultra-easy JSON style configs.",
   "main": "lib/index.js",
   "scripts": {
