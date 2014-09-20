@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/mirek/node-zk-tree/issues"
   },
-  "homepage": "https://github.com/mirek/zk-tree",
+  "homepage": "https://github.com/mirek/node-zk-tree",
   "dependencies": {
     "delegates": "0.0.3",
     "flat-flow": "^0.1.1",
